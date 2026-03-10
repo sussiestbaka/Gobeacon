@@ -144,9 +144,9 @@ GOOS=windows GOARCH=amd64 go build -o keylogger.exe keylogger.go
 
 **Alejandro** — Mechatronics Engineering student with a focus on offensive security research.
 
-- 🔗 [LinkedIn](#)
-- 🐙 [GitHub](#)
-- 🎯 [TryHackMe](#)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/ale-rosales-22ab43363/)
+- 🐙 [GitHub](https://github.com/sussiestbaka)
+- 🎯 [TryHackMe](https://tryhackme.com/p/AlejandroRosales)
 
 ---
 
