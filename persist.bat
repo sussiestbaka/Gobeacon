@@ -41,4 +41,4 @@ reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\Run" /v "MyAppOrganizer"
 echo.
 echo === Process Complete ===
 echo Files organized in: %TARGET_DIR%
-echo Note: This setup requires user confirmation for security.
+
